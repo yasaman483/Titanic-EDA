@@ -29,7 +29,6 @@ cd Titanic-EDA`
 
 <img width="764" height="605" alt="Screenshot 2025-11-03 093817" src="https://github.com/user-attachments/assets/e16ac3ad-74af-4f59-808b-135932e59263" />
 
-<img width="764" height="605" alt="Screenshot 2025-11-03 093817" src="https://github.com/user-attachments/assets/975e3189-5f93-479a-b91e-7f9f2109d484" />
+<img width="849" height="569" alt="Screenshot 2025-11-03 093748" src="https://github.com/user-attachments/assets/dca867a2-3872-4902-8a56-880cfebf4b3a" />
 
 <img width="850" height="570" alt="Screenshot 2025-11-03 093829" src="https://github.com/user-attachments/assets/81c1327d-5c8d-44a9-98c4-5dca4a0393cb" />
-
